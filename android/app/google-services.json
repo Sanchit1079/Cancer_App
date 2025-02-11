@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722629128866",
+    "project_id": "cancer-detection-app-ca15a",
+    "storage_bucket": "cancer-detection-app-ca15a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722629128866:android:172c67104d31b9540e1dfb",
+        "android_client_info": {
+          "package_name": "com.example.cancer_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCl2C-6Tb61POMkVQwNlZW83D9JsygVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
